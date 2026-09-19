@@ -1,0 +1,44 @@
+{
+    "563": {
+        "name": "rajesh",
+        "password": "563",
+        "shift": "morning",
+        "check_in": null
+    },
+    "58": {
+        "name": "sparsh",
+        "password": "3101",
+        "shift": "night",
+        "check_in": null
+    },
+    "347": {
+        "name": "malakar",
+        "password": "369",
+        "shift": "morning",
+        "check_in": null
+    },
+    "56": {
+        "name": "parv",
+        "password": "3101",
+        "shift": "morning",
+        "check_in": null
+    },
+    "89": {
+        "name": "harshit",
+        "password": "2005",
+        "shift": "night",
+        "check_in": null
+    },
+    "7": {
+        "name": "sparsh",
+        "password": "5678",
+        "shift": "evening",
+        "check_in": "2026-09-19 21:20:39"
+    },
+    "260926": {
+        "name": "Soumil Chitnis",
+        "password": "eng_soumil_manager",
+        "shift": "morning",
+        "check_in": null
+    }
+}
