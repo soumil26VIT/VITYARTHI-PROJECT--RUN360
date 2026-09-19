@@ -1,0 +1,4 @@
+Problem Statement: In college and workplaces, attendance is often managed manually or through separate systems. This can take time and may lead to mistakes in maintaining records. In educational institutions, students also need to manage their timetable, tasks, marks, events, and attendance separately. Similarly, industries need to maintain employee attendance, shifts, check-in and check-out timings, working hours, and department records.
+Scope of the Project:-RUN 360 aims to provide a simple Python-based management system for handling attendance, schedules, tasks and records in an organized manner.The project can be used as a basic management platform for educational and industrial environments.
+Target Users:-Students,Teachers,Educational institutions, Employees,Industrial organizations,Administrators
+High-Level Features:-Attendance management,Schedule management, Task management,Record management,Organized data handling,Simple user interaction
