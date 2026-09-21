@@ -1,5 +1,5 @@
 # VITYARTHI-PROJECT--RUN360
-RUN 360 is a Python-based smart management system designed to make attendance and daily management easier in both educational and industrial environments. The main idea behind this project is to replace some of the manual work involved in maintaining attendance, schedules, tasks, and records with a single simple platform. 
+ Overview of project :- RUN 360 is a Python-based smart management system designed to make attendance and daily management easier in both educational and industrial environments. The main idea behind this project is to replace some of the manual work involved in maintaining attendance, schedules, tasks, and records with a single simple platform. 
 Features:- Student/Employee attendance management,Daily task management,Schedule management,Record management,Easy-to-use interface,Centralized management system
 Technologies / Tools Used:-Python, GitHub, Python Libraries used in the project, Raptor tool
 Installation and Run:- Download or clone this repository > Install Python on the system >Install the required libraries >Run the main Python file.
